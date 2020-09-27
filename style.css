@@ -105,7 +105,7 @@ section img {
     height: 30px;
     border-radius: 5px;
     margin-top: 8px;
-    margin-left: 320px;
+    margin-left: 645px;
     font-size: 16px;
     border: none;
     display: block;
@@ -117,14 +117,10 @@ section img {
     width: 27px;
     height: 27px;
     cursor: pointer;
-    margin-left: 590px;
+    margin-left: 915px;
     margin-top: -27px;
     border: none;
     display: block;
-}
-
-.contentWrapper {
-    
 }
 
 .sidebar {
