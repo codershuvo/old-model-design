@@ -105,21 +105,19 @@ section img {
     border-radius: 5px;
     margin-top: 8px;
     margin-left: 320px;
-    position: absolute;
     font-size: 16px;
     border: none;
     display: block;
 }
 
 .submit {
-    position: relative;
     background-image: url("images/srchIcon.png");
     background-repeat: no-repeat;
     width: 27px;
     height: 27px;
     cursor: pointer;
     margin-left: 590px;
-    margin-top: 10px;
+    margin-top: -27px;
     border: none;
     display: block;
 }
