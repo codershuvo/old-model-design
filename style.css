@@ -73,6 +73,7 @@
     background-color: rgba(0, 0, 0, 0.589);
     z-index: 5;
     margin-top: -47px;
+    overflow: hidden;
 }   
 
 #menuButtom li {
