@@ -108,6 +108,7 @@ section img {
     position: absolute;
     font-size: 16px;
     border: none;
+    display: block;
 }
 
 .submit {
@@ -120,6 +121,7 @@ section img {
     margin-left: 590px;
     margin-top: 10px;
     border: none;
+    display: block;
 }
 
 .contentWrapper {
